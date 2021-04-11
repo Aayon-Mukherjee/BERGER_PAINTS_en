@@ -146,8 +146,8 @@ While painting your home’s exteriors might seem like an added cost and somethi
 
 ## OTHER BRANDS THAT CAN BE CONSIDERED:
 
-* [Asian_Paints]()
-* [Nerolac_Paints]()
+* [Asian_Paints](https://github.com/Aayon-Mukherjee/Asian_Paints_en/blob/main/Asian_en.md)
+* [Nerolac_Paints](https://github.com/Aayon-Mukherjee/Nerolac_Paints_en/blob/main/Nerolac_en.md)
   
 ---
 <h3 align="left">Connect with BERGER :</h3>
